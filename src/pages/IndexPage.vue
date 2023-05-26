@@ -99,15 +99,15 @@
             <q-radio
               keep-color
               v-model="formulario.age_range"
-              val="15 o menos"
-              label="15 o menos"
+              val="18 o menos"
+              label="18 o menos"
               color="teal"
             />
             <q-radio
               keep-color
               v-model="formulario.age_range"
-              val="15 a 18"
-              label="15 a 18"
+              val="18 a 25"
+              label="18 a 25"
               color="orange"
             />
             <q-radio
