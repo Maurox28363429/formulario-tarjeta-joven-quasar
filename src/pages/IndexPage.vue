@@ -137,7 +137,7 @@
 </template>
 <style>
 .fondo {
-  background-image: url("fondo.jpg");
+  background-image: url("https://form.tarjetajovendiamante.com/fondo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
